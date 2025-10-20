@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\N\u0103m 2_H\u1ECDc k\u1EF3 1\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\NT106_Lab\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\N\u0103m 2_H\u1ECDc k\u1EF3 1\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\NT106_Lab\\TEST\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEST\\NewFile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewFile",
+              "DocumentMoniker": "D:\\N\u0103m 2_H\u1ECDc k\u1EF3 1\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\NT106_Lab\\TEST\\NewFile",
+              "RelativeDocumentMoniker": "TEST\\NewFile",
+              "ToolTip": "D:\\N\u0103m 2_H\u1ECDc k\u1EF3 1\\L\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\NT106_Lab\\TEST\\NewFile",
+              "RelativeToolTip": "TEST\\NewFile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T05:13:56.644Z",
+              "EditorCaption": ""
             }
           ]
         }
